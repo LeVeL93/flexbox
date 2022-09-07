@@ -1,0 +1,23 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    background-color: gray;
+    margin: 100px;
+}
+
+.flaggan {
+    background-color: white;
+    width: 600px;
+    height: 375px;
+    display: flex;
+    align-items: center;
+}
+
+.pricken {
+    width: 200px;
+    height: 200px;
+    background: red;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
