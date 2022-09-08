@@ -1,0 +1,40 @@
+body {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+
+.container {
+    width: 80%;
+    height: 50px;
+    display: flex;
+    background-color: rgba(233, 227, 227, 0.63);
+}
+
+.inner-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+
+
+
+
+
+.item {
+    text-align: center;
+    padding: 15px;
+}
+
+a:hover {
+    background-color: gray;
+    color: white;
+
+}
+
+.button {
+    padding: 8px;
+    display: flex;
+    justify-content: end;
+}
